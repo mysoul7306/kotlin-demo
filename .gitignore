@@ -53,8 +53,8 @@ out/
 
 ### jOOQ Codes ###
 **/jooq/
-!**/src/main/java/**/jooq/
-!**/src/test/java/**/jooq/
+!**/src/main/kotlin/**/jooq/
+!**/src/test/kotlin/**/jooq/
 
 ### ETC ###
 logs/
